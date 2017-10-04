@@ -10,6 +10,7 @@ LeetCode solutions in C++ 11. (From Easy to Hard)
 |3 | [Longest Substring Without Repeating Characters][3] | [C++](003.%20Longest%20Substring%20Without%20Repeating%20Characters) | 2017-10-01 | Medium|
 |4 | [Median of Two Sorted Arrays][4] | [C++](004.%20Median%20of%20Two%20Sorted%20Arrays) | 2017-10-02 | Hard|
 |5|  [Longest Palindromic Substring][5] | [C++](005.%02Longest%20Palindromic%20Substring) | 2017-10-03 | Medium|
+|6|  [ZigZag Conversion][6] | [C++](006.%02ZigZag%02Conversion) | 2017-10-04 | Medium|
 
 [1]:https://leetcode.com/problems/two-sum/description/
 [2]:https://leetcode.com/problems/add-two-numbers/description/
