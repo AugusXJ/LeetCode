@@ -17,3 +17,4 @@ LeetCode solutions in C++ 11. (From Easy to Hard)
 [3]:https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
 [4]:https://leetcode.com/problems/median-of-two-sorted-arrays/description/
 [5]:https://leetcode.com/problems/longest-palindromic-substring/description/
+[6]:https://leetcode.com/problems/zigzag-conversion/description/

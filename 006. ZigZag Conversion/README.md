@@ -21,3 +21,5 @@ Write the code that will take a string and make this conversion given a number o
 
 ### 方法
 主要的问题就是如何把`text`这个字符串中的数据存到几个创建的字符串中。由于是Z字形的，数据写入有两种情况，一直是往下移一格，或者是往右上移一格，因此设置一个变量表示两种状态即可。
+
+code: [point here](solution_1.cpp)
