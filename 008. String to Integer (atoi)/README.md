@@ -28,3 +28,4 @@ If no valid conversion could be performed, a zero value is returned. If the corr
 
 知道要求的话解题就很简单了，找到第一个满足条件的字符，再以此往下读数字字符，若非数字字符就跳出。另外注意要写个判断不能溢出。
 
+code: [point here](solution_1.cpp)
