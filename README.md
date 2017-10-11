@@ -20,6 +20,8 @@ LeetCode solutions in C++ 11.
 |13| [Roman to Integer][13] | [C++][S13] | 2017-10-10 | Easy |
 |14| [Longest Common Prefix][14] | [C++][S14] | 2017-10-10 | Easy |
 |15| [3Sum][15] | [C++][S15] | 2017-10-10 | Medium |
+|16| [3Sum Closest][16] | [C++][S16] | 2017-10-11 | Medium |
+|17| [Letter Combinations of a Phone Number][17] | [C++][S17] | 2017-10-12 | Medium |
 
 [S1]:001.%20Two%20Sum
 [S2]:002.%20Add%20Two%20Numbers
@@ -36,6 +38,8 @@ LeetCode solutions in C++ 11.
 [S13]:013.%02Roman%02to%02Integer
 [S14]:014.%02Longest%02Common%02Prefix
 [S15]:015.%023Sum
+[S16]:016.%023Sum%02Closest
+[S17]:017.%02Letter%02Combinations%02of%02a%02Phone%02Number
 
 
 [1]:https://leetcode.com/problems/two-sum/description/
@@ -53,3 +57,5 @@ LeetCode solutions in C++ 11.
 [13]:https://leetcode.com/problems/roman-to-integer/description/
 [14]:https://leetcode.com/problems/longest-common-prefix/description/
 [15]:https://leetcode.com/problems/3sum/description/
+[16]:https://leetcode.com/problems/3sum-closest/description/
+[17]:https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
