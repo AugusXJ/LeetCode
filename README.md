@@ -24,6 +24,10 @@ LeetCode solutions in C++ 11.
 |17| [Letter Combinations of a Phone Number][17] | [C++][S17] | 2017-10-12 | Medium |
 |18| [4Sum][18] | [C++][S18] | 2017-10-14 | Medium |
 |19| [Remove Nth Node From End of List][19] | [C++][S19] | 2017-10-15 | Medium |
+|20| [Valid Parentheses][20] | [C++][S20] | 2017-10-16 | Easy |
+|21| [Merge Two Sorted Lists][21] | [C++][S21] | 2017-10-16 | Easy |
+|22| [Generate Parentheses][22] | [C++][S22] | 2017-10-16 | Medium |
+|23| [Merge k Sorted Lists][23] | [C++][S23] | 2017-10-16 | Hard |
 
 [S1]:001.%20Two%20Sum
 [S2]:002.%20Add%20Two%20Numbers
@@ -44,6 +48,10 @@ LeetCode solutions in C++ 11.
 [S17]:017.%20Letter%20Combinations%20of%20a%20Phone%20Number
 [S18]:018.%204Sum
 [S19]:019.%20Remove%20Nth%20Node%20From%20End%20of%20List
+[S20]:020.%20Valid%20Parentheses
+[S21]:021.%20Merge%20Two%20Sorted%20Lists
+[S22]:022.%20Generate%20Parentheses
+[S23]:023%20Merge%20k%20Sorted%20Lists
 
 
 [1]:https://leetcode.com/problems/two-sum/description/
@@ -64,3 +72,8 @@ LeetCode solutions in C++ 11.
 [16]:https://leetcode.com/problems/3sum-closest/description/
 [17]:https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
 [18]:https://leetcode.com/problems/4sum/description/
+[19]:https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
+[20]:https://leetcode.com/problems/valid-parentheses/description/
+[21]:https://leetcode.com/problems/merge-two-sorted-lists/description/
+[22]:https://leetcode.com/problems/generate-parentheses/description/
+[23]:https://leetcode.com/problems/merge-k-sorted-lists/description/
