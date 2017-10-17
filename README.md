@@ -28,6 +28,7 @@ LeetCode solutions in C++ 11.
 |21| [Merge Two Sorted Lists][21] | [C++][S21] | 2017-10-16 | Easy |
 |22| [Generate Parentheses][22] | [C++][S22] | 2017-10-16 | Medium |
 |23| [Merge k Sorted Lists][23] | [C++][S23] | 2017-10-16 | Hard |
+|24| [Swap Nodes in Pairs][24] | [C++][S24] | 2017-10-17 | Medium |
 
 [S1]:001.%20Two%20Sum
 [S2]:002.%20Add%20Two%20Numbers
@@ -52,6 +53,7 @@ LeetCode solutions in C++ 11.
 [S21]:021.%20Merge%20Two%20Sorted%20Lists
 [S22]:022.%20Generate%20Parentheses
 [S23]:023%20Merge%20k%20Sorted%20Lists
+[S24]:024%20Swap%20Nodes%20in%20Pairs
 
 
 [1]:https://leetcode.com/problems/two-sum/description/
@@ -77,3 +79,4 @@ LeetCode solutions in C++ 11.
 [21]:https://leetcode.com/problems/merge-two-sorted-lists/description/
 [22]:https://leetcode.com/problems/generate-parentheses/description/
 [23]:https://leetcode.com/problems/merge-k-sorted-lists/description/
+[24]:https://leetcode.com/problems/swap-nodes-in-pairs/discuss/
