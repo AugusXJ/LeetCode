@@ -29,6 +29,7 @@ LeetCode solutions in C++ 11.
 |22| [Generate Parentheses][22] | [C++][S22] | 2017-10-16 | Medium |
 |23| [Merge k Sorted Lists][23] | [C++][S23] | 2017-10-16 | Hard |
 |24| [Swap Nodes in Pairs][24] | [C++][S24] | 2017-10-17 | Medium |
+|25| [Reverse Nodes in k-Group][25] | [C++][S25] | 2017-10-19 | Hard |
 
 [S1]:001.%20Two%20Sum
 [S2]:002.%20Add%20Two%20Numbers
@@ -52,8 +53,9 @@ LeetCode solutions in C++ 11.
 [S20]:020.%20Valid%20Parentheses
 [S21]:021.%20Merge%20Two%20Sorted%20Lists
 [S22]:022.%20Generate%20Parentheses
-[S23]:023%20Merge%20k%20Sorted%20Lists
-[S24]:024%20Swap%20Nodes%20in%20Pairs
+[S23]:023.%20Merge%20k%20Sorted%20Lists
+[S24]:024.%20Swap%20Nodes%20in%20Pairs
+[S25]:025.%20Reverse%20Nodes%20in%20k-Group
 
 
 [1]:https://leetcode.com/problems/two-sum/description/
@@ -80,3 +82,4 @@ LeetCode solutions in C++ 11.
 [22]:https://leetcode.com/problems/generate-parentheses/description/
 [23]:https://leetcode.com/problems/merge-k-sorted-lists/description/
 [24]:https://leetcode.com/problems/swap-nodes-in-pairs/discuss/
+[25]:https://leetcode.com/problems/reverse-nodes-in-k-group/description/
