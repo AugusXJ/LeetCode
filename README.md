@@ -30,6 +30,9 @@ LeetCode solutions in C++ 11.
 |23| [Merge k Sorted Lists][23] | [C++][S23] | 2017-10-16 | Hard |
 |24| [Swap Nodes in Pairs][24] | [C++][S24] | 2017-10-17 | Medium |
 |25| [Reverse Nodes in k-Group][25] | [C++][S25] | 2017-10-19 | Hard |
+|26| [Remove Duplicates from Sorted Array][26] | [C++][S26] | 2017-10-20 | Easy |
+|27| [Remove Element][27] | [C++][S27] | 2017-10-20 | Easy |
+|28| [Implement strStr()][28] | [C++][S28] | 2017-10-20 | Easy |
 
 [S1]:001.%20Two%20Sum
 [S2]:002.%20Add%20Two%20Numbers
@@ -56,6 +59,9 @@ LeetCode solutions in C++ 11.
 [S23]:023.%20Merge%20k%20Sorted%20Lists
 [S24]:024.%20Swap%20Nodes%20in%20Pairs
 [S25]:025.%20Reverse%20Nodes%20in%20k-Group
+[S26]:026%20Remove%20Duplicates%20from%20Sorted%20Array
+[S27]:027%20Remove%20Element
+[S28]:028%20Implement%20strStr()
 
 
 [1]:https://leetcode.com/problems/two-sum/description/
@@ -83,3 +89,6 @@ LeetCode solutions in C++ 11.
 [23]:https://leetcode.com/problems/merge-k-sorted-lists/description/
 [24]:https://leetcode.com/problems/swap-nodes-in-pairs/discuss/
 [25]:https://leetcode.com/problems/reverse-nodes-in-k-group/description/
+[26]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+[27]:https://leetcode.com/problems/remove-element/description/
+[28]:https://leetcode.com/problems/implement-strstr/description/
