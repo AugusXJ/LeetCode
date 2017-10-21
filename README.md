@@ -33,6 +33,7 @@ LeetCode solutions in C++ 11.
 |26| [Remove Duplicates from Sorted Array][26] | [C++][S26] | 2017-10-20 | Easy |
 |27| [Remove Element][27] | [C++][S27] | 2017-10-20 | Easy |
 |28| [Implement strStr()][28] | [C++][S28] | 2017-10-20 | Easy |
+|29| [Divide Two Integers][29] | [C++][S29] | 2017-10-21 | Medium |
 
 [S1]:001.%20Two%20Sum
 [S2]:002.%20Add%20Two%20Numbers
@@ -59,9 +60,10 @@ LeetCode solutions in C++ 11.
 [S23]:023.%20Merge%20k%20Sorted%20Lists
 [S24]:024.%20Swap%20Nodes%20in%20Pairs
 [S25]:025.%20Reverse%20Nodes%20in%20k-Group
-[S26]:026%20Remove%20Duplicates%20from%20Sorted%20Array
-[S27]:027%20Remove%20Element
-[S28]:028%20Implement%20strStr()
+[S26]:026.%20Remove%20Duplicates%20from%20Sorted%20Array
+[S27]:027.%20Remove%20Element
+[S28]:028.%20Implement%20strStr()
+[S29]:029.%20Divide%20Two%20Integers
 
 
 [1]:https://leetcode.com/problems/two-sum/description/
@@ -70,12 +72,12 @@ LeetCode solutions in C++ 11.
 [4]:https://leetcode.com/problems/median-of-two-sorted-arrays/description/
 [5]:https://leetcode.com/problems/longest-palindromic-substring/description/
 [6]:https://leetcode.com/problems/zigzag-conversion/description/
-[7]:https://leetcode.com/problems/reverse-integer/discuss/
+[7]:https://leetcode.com/problems/reverse-integer/description/
 [8]:https://leetcode.com/problems/string-to-integer-atoi/description/
-[9]:https://leetcode.com/problems/palindrome-number/discuss/
-[10]:https://leetcode.com/problems/regular-expression-matching/discuss/
+[9]:https://leetcode.com/problems/palindrome-number/description/
+[10]:https://leetcode.com/problems/regular-expression-matching/description/
 [11]:https://leetcode.com/problems/container-with-most-water/description/
-[12]:https://leetcode.com/problems/integer-to-roman/discuss/
+[12]:https://leetcode.com/problems/integer-to-roman/description/
 [13]:https://leetcode.com/problems/roman-to-integer/description/
 [14]:https://leetcode.com/problems/longest-common-prefix/description/
 [15]:https://leetcode.com/problems/3sum/description/
@@ -87,8 +89,9 @@ LeetCode solutions in C++ 11.
 [21]:https://leetcode.com/problems/merge-two-sorted-lists/description/
 [22]:https://leetcode.com/problems/generate-parentheses/description/
 [23]:https://leetcode.com/problems/merge-k-sorted-lists/description/
-[24]:https://leetcode.com/problems/swap-nodes-in-pairs/discuss/
+[24]:https://leetcode.com/problems/swap-nodes-in-pairs/description/
 [25]:https://leetcode.com/problems/reverse-nodes-in-k-group/description/
 [26]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 [27]:https://leetcode.com/problems/remove-element/description/
 [28]:https://leetcode.com/problems/implement-strstr/description/
+[29]:https://leetcode.com/problems/divide-two-integers/description/
