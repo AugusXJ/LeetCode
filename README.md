@@ -34,6 +34,7 @@ LeetCode solutions in C++ 11.
 |27| [Remove Element][27] | [C++][S27] | 2017-10-20 | Easy |
 |28| [Implement strStr()][28] | [C++][S28] | 2017-10-20 | Easy |
 |29| [Divide Two Integers][29] | [C++][S29] | 2017-10-21 | Medium |
+|30| [Substring with Concatenation of All Words][30] | [C++][S30] | 2017-10-27 | Hard |
 
 [S1]:001.%20Two%20Sum
 [S2]:002.%20Add%20Two%20Numbers
@@ -64,6 +65,7 @@ LeetCode solutions in C++ 11.
 [S27]:027.%20Remove%20Element
 [S28]:028.%20Implement%20strStr()
 [S29]:029.%20Divide%20Two%20Integers
+[S30]:030.%20Substring%20with%20Concatenation%20of%20All%20Words
 
 
 [1]:https://leetcode.com/problems/two-sum/description/
@@ -95,3 +97,4 @@ LeetCode solutions in C++ 11.
 [27]:https://leetcode.com/problems/remove-element/description/
 [28]:https://leetcode.com/problems/implement-strstr/description/
 [29]:https://leetcode.com/problems/divide-two-integers/description/
+[30]:
