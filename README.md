@@ -36,6 +36,7 @@ LeetCode solutions in C++ 11.
 |29| [Divide Two Integers][29] | [C++][S29] | 2017-10-21 | Medium |
 |30| [Substring with Concatenation of All Words][30] | [C++][S30] | 2017-10-27 | Hard |
 |31| [Next Permutation][31] | [C++][S31] | 2017-10-29 | Medium |
+|32| [Longest Valid Parentheses][32] | [C++][S32] | 2017-10-31 | Hard |
 
 [S1]:001.%20Two%20Sum
 [S2]:002.%20Add%20Two%20Numbers
@@ -68,6 +69,7 @@ LeetCode solutions in C++ 11.
 [S29]:029.%20Divide%20Two%20Integers
 [S30]:030.%20Substring%20with%20Concatenation%20of%20All%20Words
 [S31]:031.%20Next%20Permutation
+[S32]:032.%20Longest%20Valid%20Parentheses
 
 
 [1]:https://leetcode.com/problems/two-sum/description/
@@ -101,3 +103,4 @@ LeetCode solutions in C++ 11.
 [29]:https://leetcode.com/problems/divide-two-integers/description/
 [30]:https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/
 [31]:https://leetcode.com/problems/next-permutation/description/
+[32]:https://leetcode.com/problems/longest-valid-parentheses/description/
