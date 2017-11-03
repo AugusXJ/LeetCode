@@ -39,6 +39,7 @@ LeetCode solutions in C++ 11.
 |32| [Longest Valid Parentheses][32] | [C++][S32] | 2017-10-31 | Hard |
 |33| [Search in Rotated Sorted Array][33] | [C++][S33] | 2017-11-1 | Medium |
 |34| [Search for a Range][34] | [C++][S34] | 2017-11-1 | Medium |
+|461| [Hamming Distance][461] | [C++][S461] | 2017-11-3 | Easy |
 
 [S1]:001.%20Two%20Sum
 [S2]:002.%20Add%20Two%20Numbers
@@ -74,6 +75,7 @@ LeetCode solutions in C++ 11.
 [S32]:032.%20Longest%20Valid%20Parentheses
 [S33]:033.%20Search%20in%20Rotated%20Sorted%20Array
 [S34]:034.%20Search%20for%20a%20Range
+[S461]:461.%20Hamming%20Distance
 
 
 [1]:https://leetcode.com/problems/two-sum/description/
@@ -110,3 +112,4 @@ LeetCode solutions in C++ 11.
 [32]:https://leetcode.com/problems/longest-valid-parentheses/description/
 [33]:https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 [34]:https://leetcode.com/problems/search-for-a-range/description/
+[461]:https://leetcode.com/problems/hamming-distance/description/
