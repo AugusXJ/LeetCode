@@ -40,6 +40,7 @@ LeetCode solutions in C++ 11.
 |33| [Search in Rotated Sorted Array][33] | [C++][S33] | 2017-11-1 | Medium |
 |34| [Search for a Range][34] | [C++][S34] | 2017-11-1 | Medium |
 |461| [Hamming Distance][461] | [C++][S461] | 2017-11-3 | Easy |
+|561| [Array Partition I][561] | [C++][S561] | 2017-11-6 | Easy |
 |617| [Merge Two Binary Trees][617] | [C++][S617] | 2017-11-4 | Easy |
 |657| [Judge Route Circle][657] | [C++][S657] | 2017-11-4 | Easy |
 
@@ -78,6 +79,7 @@ LeetCode solutions in C++ 11.
 [S33]:033.%20Search%20in%20Rotated%20Sorted%20Array
 [S34]:034.%20Search%20for%20a%20Range
 [S461]:461.%20Hamming%20Distance
+[S561]:561.%20Array%20Partition%20I
 [S617]:617.%20Merge%20Two%20Binary%20Trees
 [S657]:657.%20Judge%20Route%20Circle
 
@@ -117,5 +119,6 @@ LeetCode solutions in C++ 11.
 [33]:https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 [34]:https://leetcode.com/problems/search-for-a-range/description/
 [461]:https://leetcode.com/problems/hamming-distance/description/
+[561]:https://leetcode.com/problems/array-partition-i/description/
 [617]:https://leetcode.com/problems/merge-two-binary-trees/description/
 [657]:https://leetcode.com/problems/judge-route-circle/description/
