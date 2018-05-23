@@ -39,6 +39,7 @@ LeetCode solutions in C++ 11.
 |32| [Longest Valid Parentheses][32] | [C++][S32] | 2017-10-31 | Hard |
 |33| [Search in Rotated Sorted Array][33] | [C++][S33] | 2017-11-1 | Medium |
 |34| [Search for a Range][34] | [C++][S34] | 2017-11-1 | Medium |
+|230| [Kth Smallest Element in a BST][230] | [c++][S230] | 2018-5-23 | Medium |
 |461| [Hamming Distance][461] | [C++][S461] | 2017-11-3 | Easy |
 |561| [Array Partition I][561] | [C++][S561] | 2017-11-6 | Easy |
 |617| [Merge Two Binary Trees][617] | [C++][S617] | 2017-11-4 | Easy |
@@ -78,6 +79,7 @@ LeetCode solutions in C++ 11.
 [S32]:032.%20Longest%20Valid%20Parentheses
 [S33]:033.%20Search%20in%20Rotated%20Sorted%20Array
 [S34]:034.%20Search%20for%20a%20Range
+[S230]:230.%20Kth%20Smallest%20Element%20in%20a%20BST
 [S461]:461.%20Hamming%20Distance
 [S561]:561.%20Array%20Partition%20I
 [S617]:617.%20Merge%20Two%20Binary%20Trees
@@ -118,6 +120,7 @@ LeetCode solutions in C++ 11.
 [32]:https://leetcode.com/problems/longest-valid-parentheses/description/
 [33]:https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 [34]:https://leetcode.com/problems/search-for-a-range/description/
+[230]:https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/
 [461]:https://leetcode.com/problems/hamming-distance/description/
 [561]:https://leetcode.com/problems/array-partition-i/description/
 [617]:https://leetcode.com/problems/merge-two-binary-trees/description/
