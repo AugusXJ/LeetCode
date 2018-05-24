@@ -1,7 +1,7 @@
 LeetCode
 ========
 
-LeetCode solutions in C++ 11. 
+LeetCode solutions in C++ 11 and python3. 
 
 |NO.|Title|Solution|Add Date|Difficulty|
 |:-:|:---:|:------:|:------:|:--------:|
@@ -45,6 +45,7 @@ LeetCode solutions in C++ 11.
 |561| [Array Partition I][561] | [C++][S561] | 2017-11-6 | Easy |
 |617| [Merge Two Binary Trees][617] | [C++][S617] | 2017-11-4 | Easy |
 |657| [Judge Route Circle][657] | [C++][S657] | 2017-11-4 | Easy |
+|728| [Self Dividing Numbers][728] | [python3][S728] | 2018-5-24 | Easy |
 
 [S1]:001.%20Two%20Sum
 [S2]:002.%20Add%20Two%20Numbers
@@ -86,6 +87,7 @@ LeetCode solutions in C++ 11.
 [S561]:561.%20Array%20Partition%20I
 [S617]:617.%20Merge%20Two%20Binary%20Trees
 [S657]:657.%20Judge%20Route%20Circle
+[S728]:728.%20Self%20Dividing%20Numbers
 
 
 [1]:https://leetcode.com/problems/two-sum/description/
@@ -128,3 +130,4 @@ LeetCode solutions in C++ 11.
 [561]:https://leetcode.com/problems/array-partition-i/description/
 [617]:https://leetcode.com/problems/merge-two-binary-trees/description/
 [657]:https://leetcode.com/problems/judge-route-circle/description/
+[728]:https://leetcode.com/problems/self-dividing-numbers/description/
