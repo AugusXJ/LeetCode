@@ -13,7 +13,7 @@ LeetCode solutions in C++ 11 and python3.
 |6| [ZigZag Conversion][6] | [C++][S6] | 2017-10-04 | Medium|
 |7| [Reverse Integer][7] | [C++][S7] |2017-10-05 | Easy|
 |8| [String to Integer (atoi)][8] | [C++][S8] | 2017-10-07 | Medium |
-|9| [Palindrome Number][9] | [C++][S9] | 2017-10-07 | Easy|  
+|9| [Palindrome Number][9] | [C++][S9] | 2017-10-07 | Easy|
 |10| [Regular Expression Matching][10] | [C++][S10] | 2017-10-08 | Hard|
 |11| [Container With Most Water][11] | [C++][S11] | 2017-10-08 | Medium |
 |12| [Integer to Roman][12] | [C++][S12] | 2017-10-10 | Medium|
@@ -39,7 +39,8 @@ LeetCode solutions in C++ 11 and python3.
 |32| [Longest Valid Parentheses][32] | [C++][S32] | 2017-10-31 | Hard |
 |33| [Search in Rotated Sorted Array][33] | [C++][S33] | 2017-11-1 | Medium |
 |34| [Search for a Range][34] | [C++][S34] | 2017-11-1 | Medium |
-|230| [Kth Smallest Element in a BST][230] | [c++][S230] | 2018-5-23 | Medium |
+|230| [Kth Smallest Element in a BST][230] | [C++][S230] | 2018-5-23 | Medium |
+|344| [Reverse String][344] | [C++][S344] | 2018-5-28 | Easy |
 |409| [Longest Palindrome][409] | [python3][S409] | 2018-5-23| Easy |
 |461| [Hamming Distance][461] | [C++][S461] | 2017-11-3 | Easy |
 |561| [Array Partition I][561] | [C++][S561] | 2017-11-6 | Easy |
@@ -47,6 +48,8 @@ LeetCode solutions in C++ 11 and python3.
 |657| [Judge Route Circle][657] | [C++][S657] | 2017-11-4 | Easy |
 |698| [Partition to K Equal Sum Subsets][698] | [python3][S698] | 2018-5-24 | Medium |
 |728| [Self Dividing Numbers][728] | [python3][S728] | 2018-5-24 | Easy |
+
+
 
 [S1]:001.%20Two%20Sum
 [S2]:002.%20Add%20Two%20Numbers
@@ -83,6 +86,7 @@ LeetCode solutions in C++ 11 and python3.
 [S33]:033.%20Search%20in%20Rotated%20Sorted%20Array
 [S34]:034.%20Search%20for%20a%20Range
 [S230]:230.%20Kth%20Smallest%20Element%20in%20a%20BST
+[S344]:344.%20Reverse%20String
 [S409]:409.%20Longest%20Palindrome
 [S461]:461.%20Hamming%20Distance
 [S561]:561.%20Array%20Partition%20I
@@ -127,6 +131,7 @@ LeetCode solutions in C++ 11 and python3.
 [33]:https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 [34]:https://leetcode.com/problems/search-for-a-range/description/
 [230]:https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/
+[344]:https://leetcode.com/problems/reverse-string/description/
 [409]:https://leetcode.com/problems/longest-palindrome/description/
 [461]:https://leetcode.com/problems/hamming-distance/description/
 [561]:https://leetcode.com/problems/array-partition-i/description/
