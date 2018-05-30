@@ -43,6 +43,7 @@ LeetCode solutions in C++ 11 and python3.
 |344| [Reverse String][344] | [C++][S344] | 2018-5-28 | Easy |
 |409| [Longest Palindrome][409] | [python3][S409] | 2018-5-23| Easy |
 |461| [Hamming Distance][461] | [C++][S461] | 2017-11-3 | Easy |
+|476| [ Number Complement ][476] | [python3](S476) | 2018-5-30 | Easy |
 |561| [Array Partition I][561] | [C++][S561] | 2017-11-6 | Easy |
 |617| [Merge Two Binary Trees][617] | [C++][S617] | 2017-11-4 | Easy |
 |657| [Judge Route Circle][657] | [C++][S657] | 2017-11-4 | Easy |
@@ -89,6 +90,7 @@ LeetCode solutions in C++ 11 and python3.
 [S344]:344.%20Reverse%20String
 [S409]:409.%20Longest%20Palindrome
 [S461]:461.%20Hamming%20Distance
+[S476]:476.%20Number%20Complement
 [S561]:561.%20Array%20Partition%20I
 [S617]:617.%20Merge%20Two%20Binary%20Trees
 [S657]:657.%20Judge%20Route%20Circle
@@ -134,6 +136,7 @@ LeetCode solutions in C++ 11 and python3.
 [344]:https://leetcode.com/problems/reverse-string/description/
 [409]:https://leetcode.com/problems/longest-palindrome/description/
 [461]:https://leetcode.com/problems/hamming-distance/description/
+[476]:https://leetcode.com/problems/number-complement/description/
 [561]:https://leetcode.com/problems/array-partition-i/description/
 [617]:https://leetcode.com/problems/merge-two-binary-trees/description/
 [657]:https://leetcode.com/problems/judge-route-circle/description/
