@@ -47,6 +47,7 @@ LeetCode solutions in C++ 11 and python3.
 |561| [Array Partition I][561] | [C++][S561] | 2017-11-6 | Easy |
 |617| [Merge Two Binary Trees][617] | [C++][S617] | 2017-11-4 | Easy |
 |657| [Judge Route Circle][657] | [C++][S657] | 2017-11-4 | Easy |
+|669| [ Trim a Binary Search Tree ](669) | [python3](S669) | 2018-6-2 | Easy |
 |698| [Partition to K Equal Sum Subsets][698] | [python3][S698] | 2018-5-24 | Medium |
 |728| [Self Dividing Numbers][728] | [python3][S728] | 2018-5-24 | Easy |
 
@@ -94,6 +95,7 @@ LeetCode solutions in C++ 11 and python3.
 [S561]:561.%20Array%20Partition%20I
 [S617]:617.%20Merge%20Two%20Binary%20Trees
 [S657]:657.%20Judge%20Route%20Circle
+[S669]:669.%20Trim%20a%20Binary%20Search%20Tree
 [S698]:698.%20Partition%20to%20K%20Equal%20Sum%20Subsets
 [S728]:728.%20Self%20Dividing%20Numbers
 
@@ -140,5 +142,6 @@ LeetCode solutions in C++ 11 and python3.
 [561]:https://leetcode.com/problems/array-partition-i/description/
 [617]:https://leetcode.com/problems/merge-two-binary-trees/description/
 [657]:https://leetcode.com/problems/judge-route-circle/description/
+[669]:https://leetcode.com/problems/trim-a-binary-search-tree/description/
 [698]:https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/
 [728]:https://leetcode.com/problems/self-dividing-numbers/description/
