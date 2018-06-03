@@ -51,6 +51,7 @@ LeetCode solutions in C++ 11 and python3.
 |669| [ Trim a Binary Search Tree ](669) | [python3](S669) | 2018-6-2 | Easy |
 |698| [Partition to K Equal Sum Subsets][698] | [python3][S698] | 2018-5-24 | Medium |
 |728| [Self Dividing Numbers][728] | [python3][S728] | 2018-5-24 | Easy |
+|766| [ Toeplitz Matrix ](766) | [python3](S766) | 2018-6-3 | Easy |
 
 
 
@@ -100,7 +101,7 @@ LeetCode solutions in C++ 11 and python3.
 [S669]:669.%20Trim%20a%20Binary%20Search%20Tree
 [S698]:698.%20Partition%20to%20K%20Equal%20Sum%20Subsets
 [S728]:728.%20Self%20Dividing%20Numbers
-
+[S766]:766.%20Toeplitz%20Matrix
 
 [1]:https://leetcode.com/problems/two-sum/description/
 [2]:https://leetcode.com/problems/add-two-numbers/description/
@@ -139,7 +140,7 @@ LeetCode solutions in C++ 11 and python3.
 [230]:https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/
 [344]:https://leetcode.com/problems/reverse-string/description/
 [409]:https://leetcode.com/problems/longest-palindrome/description/
-[412]:https://leetcode.com/problems/fizz-buzz/description/
+[412]:
 [461]:https://leetcode.com/problems/hamming-distance/description/
 [476]:https://leetcode.com/problems/number-complement/description/
 [561]:https://leetcode.com/problems/array-partition-i/description/
@@ -148,3 +149,4 @@ LeetCode solutions in C++ 11 and python3.
 [669]:https://leetcode.com/problems/trim-a-binary-search-tree/description/
 [698]:https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/
 [728]:https://leetcode.com/problems/self-dividing-numbers/description/
+[766]:https://leetcode.com/problems/toeplitz-matrix/description/
