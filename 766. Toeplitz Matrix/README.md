@@ -36,8 +36,8 @@ The diagonal "[1, 2]" has different elements.
 
  ### Solution
 
-**考察点：**矩阵
+**考察点：** 矩阵
 
-**思路：**每个元素的右下角元素要与本身相同才能满足题目条件，遍历每个元素吧。
+**思路：** 每个元素的右下角元素要与本身相同才能满足题目条件，遍历每个元素吧。
 
 [python_solution](solution_1.py)
