@@ -48,10 +48,11 @@ LeetCode solutions in C++ 11 and python3.
 |561| [Array Partition I][561] | [C++][S561] | 2017-11-6 | Easy |
 |617| [Merge Two Binary Trees][617] | [C++][S617] | 2017-11-4 | Easy |
 |657| [Judge Route Circle][657] | [C++][S657] | 2017-11-4 | Easy |
-|669| [ Trim a Binary Search Tree ](669) | [python3](S669) | 2018-6-2 | Easy |
+|669| [ Trim a Binary Search Tree ](669) | [python3][S669] | 2018-6-2 | Easy |
 |698| [Partition to K Equal Sum Subsets][698] | [python3][S698] | 2018-5-24 | Medium |
 |728| [Self Dividing Numbers][728] | [python3][S728] | 2018-5-24 | Easy |
-|766| [ Toeplitz Matrix ](766) | [python3](S766) | 2018-6-3 | Easy |
+|766| [ Toeplitz Matrix ][766] | [python3][S766] | 2018-6-3 | Easy |
+|806| [ Number of Lines To Write String ][806] | [python3][S806] | 2018-6-4 | Easy |
 
 
 
@@ -102,7 +103,7 @@ LeetCode solutions in C++ 11 and python3.
 [S698]:698.%20Partition%20to%20K%20Equal%20Sum%20Subsets
 [S728]:728.%20Self%20Dividing%20Numbers
 [S766]:766.%20Toeplitz%20Matrix
-
+[S806]:806.%20Number%20of%20Lines%20To%20Write%20String
 [1]:https://leetcode.com/problems/two-sum/description/
 [2]:https://leetcode.com/problems/add-two-numbers/description/
 [3]:https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
@@ -140,7 +141,7 @@ LeetCode solutions in C++ 11 and python3.
 [230]:https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/
 [344]:https://leetcode.com/problems/reverse-string/description/
 [409]:https://leetcode.com/problems/longest-palindrome/description/
-[412]:
+[412]:https://leetcode.com/problems/fizz-buzz/description/
 [461]:https://leetcode.com/problems/hamming-distance/description/
 [476]:https://leetcode.com/problems/number-complement/description/
 [561]:https://leetcode.com/problems/array-partition-i/description/
@@ -150,3 +151,4 @@ LeetCode solutions in C++ 11 and python3.
 [698]:https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/
 [728]:https://leetcode.com/problems/self-dividing-numbers/description/
 [766]:https://leetcode.com/problems/toeplitz-matrix/description/
+[806]:https://leetcode.com/problems/number-of-lines-to-write-string/description/
