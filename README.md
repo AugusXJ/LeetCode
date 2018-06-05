@@ -45,10 +45,12 @@ LeetCode solutions in C++ 11 and python3.
 |412| [ Fizz Buzz ](412) | [python3](S412) | 2017-6-3 | Easy |
 |461| [Hamming Distance][461] | [C++][S461] | 2017-11-3 | Easy |
 |476| [ Number Complement ][476] | [python3](S476) | 2018-5-30 | Easy |
+|557| [ Reverse Words in a String III ][557] | [python3][S557] | 2018-6-5 | Easy |
 |561| [Array Partition I][561] | [C++][S561] | 2017-11-6 | Easy |
 |617| [Merge Two Binary Trees][617] | [C++][S617] | 2017-11-4 | Easy |
 |657| [Judge Route Circle][657] | [C++][S657] | 2017-11-4 | Easy |
 |669| [ Trim a Binary Search Tree ](669) | [python3][S669] | 2018-6-2 | Easy |
+|682| [ Baseball Game ][682] | [python3][S682] | 2018-6-5 | Easy |
 |698| [Partition to K Equal Sum Subsets][698] | [python3][S698] | 2018-5-24 | Medium |
 |728| [Self Dividing Numbers][728] | [python3][S728] | 2018-5-24 | Easy |
 |766| [ Toeplitz Matrix ][766] | [python3][S766] | 2018-6-3 | Easy |
@@ -97,10 +99,12 @@ LeetCode solutions in C++ 11 and python3.
 [S412]:412.%20Fizz%20Buzz
 [S461]:461.%20Hamming%20Distance
 [S476]:476.%20Number%20Complement
+[S557]:557.%20Reverse%20Words%20in%20a%20String%20III
 [S561]:561.%20Array%20Partition%20I
 [S617]:617.%20Merge%20Two%20Binary%20Trees
 [S657]:657.%20Judge%20Route%20Circle
 [S669]:669.%20Trim%20a%20Binary%20Search%20Tree
+[S682]:682.%20Baseball%20Game
 [S698]:698.%20Partition%20to%20K%20Equal%20Sum%20Subsets
 [S728]:728.%20Self%20Dividing%20Numbers
 [S766]:766.%20Toeplitz%20Matrix
@@ -146,10 +150,12 @@ LeetCode solutions in C++ 11 and python3.
 [412]:https://leetcode.com/problems/fizz-buzz/description/
 [461]:https://leetcode.com/problems/hamming-distance/description/
 [476]:https://leetcode.com/problems/number-complement/description/
+[557]:https://leetcode.com/problems/reverse-words-in-a-string-iii/description/
 [561]:https://leetcode.com/problems/array-partition-i/description/
 [617]:https://leetcode.com/problems/merge-two-binary-trees/description/
 [657]:https://leetcode.com/problems/judge-route-circle/description/
 [669]:https://leetcode.com/problems/trim-a-binary-search-tree/description/
+[682]:https://leetcode.com/problems/baseball-game/description/
 [698]:https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/
 [728]:https://leetcode.com/problems/self-dividing-numbers/description/
 [766]:https://leetcode.com/problems/toeplitz-matrix/description/
