@@ -46,6 +46,7 @@ LeetCode solutions in C++ 11 and python3.
 | 412  |            [ Fizz Buzz ](412)            | [python3](S412) |  2017-6-3  |    Easy    |
 | 461  |         [Hamming Distance][461]          |   [C++][S461]   | 2017-11-3  |    Easy    |
 | 476  |        [ Number Complement ][476]        | [python3](S476) | 2018-5-30  |    Easy    |
+| 556  |        [ Reshape the Matrix][556]        | [python3][S556] |  2018-7-4  |    Easy    |
 | 557  |  [ Reverse Words in a String III ][557]  | [python3][S557] |  2018-6-5  |    Easy    |
 | 561  |         [Array Partition I][561]         |   [C++][S561]   | 2017-11-6  |    Easy    |
 | 575  |        [ Distribute Candies][575]        | [python3][S575] | 2018-6-22  |    Easy    |
@@ -101,6 +102,7 @@ LeetCode solutions in C++ 11 and python3.
 [S412]:412.%20Fizz%20Buzz
 [S461]:461.%20Hamming%20Distance
 [S476]:476.%20Number%20Complement
+[S556]:556.%20Reshape%20the%20Matrix
 [S557]:557.%20Reverse%20Words%20in%20a%20String%20III
 [S561]:561.%20Array%20Partition%20I
 [S575]:575.%20Distribute%20Candies
@@ -153,6 +155,7 @@ LeetCode solutions in C++ 11 and python3.
 [412]:https://leetcode.com/problems/fizz-buzz/description/
 [461]:https://leetcode.com/problems/hamming-distance/description/
 [476]:https://leetcode.com/problems/number-complement/description/
+[556]:https://leetcode.com/problems/reshape-the-matrix/description/
 [557]:https://leetcode.com/problems/reverse-words-in-a-string-iii/description/
 [561]:https://leetcode.com/problems/array-partition-i/description/
 [575]:https://leetcode.com/problems/distribute-candies/description/
