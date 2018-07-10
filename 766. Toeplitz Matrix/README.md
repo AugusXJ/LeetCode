@@ -41,3 +41,9 @@ The diagonal "[1, 2]" has different elements.
 **思路：** 每个元素的右下角元素要与本身相同才能满足题目条件，遍历每个元素吧。
 
 [python_solution](solution_1.py)
+
+
+
+**思路2：** 遍历每行数据，复杂度只有O(n)
+
+[solution2](solution2.py)
