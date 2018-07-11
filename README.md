@@ -60,6 +60,7 @@ LeetCode solutions in C++ 11 and python3.
 | 766  |         [ Toeplitz Matrix ][766]         | [python3][S766] |  2018-6-3  |    Easy    |
 | 806  | [ Number of Lines To Write String ][806] | [python3][S806] |  2018-6-4  |    Easy    |
 | 832  |        [ Flipping an Image ][832]        | [python3][S832] |  2018-6-4  |    Easy    |
+| 859  |          [ Buddy Strings][859]           | [python3][S859] | 2018-7-11  |    Easy    |
 | 868  |        [ Transpose Matrix ][868]         | [python3][S868] |  2018-7-9  |    Easy    |
 
 
@@ -118,6 +119,7 @@ LeetCode solutions in C++ 11 and python3.
 [S766]:766.%20Toeplitz%20Matrix
 [S806]:806.%20Number%20of%20Lines%20To%20Write%20String
 [S832]:832.%20Flipping%20an%20Image
+[S859]:859.%20Buddy%20Strings
 [S868]:868.%20Transpose%20Matrix
 [1]:https://leetcode.com/problems/two-sum/description/
 [2]:https://leetcode.com/problems/add-two-numbers/description/
@@ -173,4 +175,5 @@ LeetCode solutions in C++ 11 and python3.
 [766]:https://leetcode.com/problems/toeplitz-matrix/description/
 [806]:https://leetcode.com/problems/number-of-lines-to-write-string/description/
 [832]:https://leetcode.com/problems/flipping-an-image/description/
+[859]:https://leetcode.com/problems/buddy-strings/description/
 [868]:https://leetcode.com/problems/transpose-matrix/description/
