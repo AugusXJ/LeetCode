@@ -40,6 +40,7 @@ LeetCode solutions in C++ 11 and python3.
 |  32  |     [Longest Valid Parentheses][32]      |   [C++][S32]    | 2017-10-31 |    Hard    |
 |  33  |   [Search in Rotated Sorted Array][33]   |   [C++][S33]    | 2017-11-1  |   Medium   |
 |  34  |         [Search for a Range][34]         |   [C++][S34]    | 2017-11-1  |   Medium   |
+|  49  |          [ Group Anagrams][49]           | [python3][S49]  |  2018-8-6  |   Medium   |
 |  98  |    [ Validate Binary Search Tree][98]    | [python3][S98]  | 2018-7-11  |   Medium   |
 | 113  |           [ Path Sum II][113]            | [python3][S113] |  2018-7-4  |   Medium   |
 | 215  | [ Kth Largest Element in an Array][215]  | [python3][S215] |  2108-8-6  |   Medium   |
@@ -102,6 +103,7 @@ LeetCode solutions in C++ 11 and python3.
 [S32]:032.%20Longest%20Valid%20Parentheses
 [S33]:033.%20Search%20in%20Rotated%20Sorted%20Array
 [S34]:034.%20Search%20for%20a%20Range
+[S49]:039.%20Group%20Anagrams
 [S98]:98.%20Validate%20Binary%20Search%20Tree
 [S113]:113.%20Path%20Sum%20II
 [S215]:215%20Kth%20Largest%20Element%20in%20an%20Array
@@ -161,6 +163,7 @@ LeetCode solutions in C++ 11 and python3.
 [32]:https://leetcode.com/problems/longest-valid-parentheses/description/
 [33]:https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 [34]:https://leetcode.com/problems/search-for-a-range/description/
+[49]:https://leetcode.com/problems/group-anagrams/description/
 [98]:https://leetcode.com/problems/validate-binary-search-tree/description/
 [113]:https://leetcode.com/problems/path-sum-ii/description/
 [215]:https://leetcode.com/problems/kth-largest-element-in-an-array/description/
