@@ -42,6 +42,7 @@ LeetCode solutions in C++ 11 and python3.
 |  34  |         [Search for a Range][34]         |   [C++][S34]    | 2017-11-1  |   Medium   |
 |  98  |    [ Validate Binary Search Tree][98]    | [python3][S98]  | 2018-7-11  |   Medium   |
 | 113  |           [ Path Sum II][113]            | [python3][S113] |  2018-7-4  |   Medium   |
+| 215  | [ Kth Largest Element in an Array][215]  | [python3][S215] |  2108-8-6  |   Medium   |
 | 230  |   [Kth Smallest Element in a BST][230]   |   [C++][S230]   | 2018-5-23  |   Medium   |
 | 344  |          [Reverse String][344]           |   [C++][S344]   | 2018-5-28  |    Easy    |
 | 409  |        [Longest Palindrome][409]         | [python3][S409] | 2018-5-23  |    Easy    |
@@ -103,6 +104,7 @@ LeetCode solutions in C++ 11 and python3.
 [S34]:034.%20Search%20for%20a%20Range
 [S98]:98.%20Validate%20Binary%20Search%20Tree
 [S113]:113.%20Path%20Sum%20II
+[S215]:215%20Kth%20Largest%20Element%20in%20an%20Array
 [S230]:230.%20Kth%20Smallest%20Element%20in%20a%20BST
 [S344]:344.%20Reverse%20String
 [S409]:409.%20Longest%20Palindrome
@@ -161,6 +163,7 @@ LeetCode solutions in C++ 11 and python3.
 [34]:https://leetcode.com/problems/search-for-a-range/description/
 [98]:https://leetcode.com/problems/validate-binary-search-tree/description/
 [113]:https://leetcode.com/problems/path-sum-ii/description/
+[215]:https://leetcode.com/problems/kth-largest-element-in-an-array/description/
 [230]:https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/
 [344]:https://leetcode.com/problems/reverse-string/description/
 [409]:https://leetcode.com/problems/longest-palindrome/description/
