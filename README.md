@@ -57,6 +57,7 @@ LeetCode solutions in C++ 11 and python3.
 | 669  |    [ Trim a Binary Search Tree ](669)    | [python3][S669] |  2018-6-2  |    Easy    |
 | 682  |          [ Baseball Game ][682]          | [python3][S682] |  2018-6-5  |    Easy    |
 | 698  | [Partition to K Equal Sum Subsets][698]  | [python3][S698] | 2018-5-24  |   Medium   |
+| 704  |          [ Binary Search][704]           | [python3][S704] |  2018-8-6  |    Easy    |
 | 728  |       [Self Dividing Numbers][728]       | [python3][S728] | 2018-5-24  |    Easy    |
 | 766  |         [ Toeplitz Matrix ][766]         | [python3][S766] |  2018-6-3  |    Easy    |
 | 806  | [ Number of Lines To Write String ][806] | [python3][S806] |  2018-6-4  |    Easy    |
@@ -117,6 +118,7 @@ LeetCode solutions in C++ 11 and python3.
 [S669]:669.%20Trim%20a%20Binary%20Search%20Tree
 [S682]:682.%20Baseball%20Game
 [S698]:698.%20Partition%20to%20K%20Equal%20Sum%20Subsets
+[S704]:704.%20Binary%20Search
 [S728]:728.%20Self%20Dividing%20Numbers
 [S766]:766.%20Toeplitz%20Matrix
 [S806]:806.%20Number%20of%20Lines%20To%20Write%20String
@@ -174,6 +176,7 @@ LeetCode solutions in C++ 11 and python3.
 [669]:https://leetcode.com/problems/trim-a-binary-search-tree/description/
 [682]:https://leetcode.com/problems/baseball-game/description/
 [698]:https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/
+[704]:https://leetcode.com/problems/binary-search/description/
 [728]:https://leetcode.com/problems/self-dividing-numbers/description/
 [766]:https://leetcode.com/problems/toeplitz-matrix/description/
 [806]:https://leetcode.com/problems/number-of-lines-to-write-string/description/
