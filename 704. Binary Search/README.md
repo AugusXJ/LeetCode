@@ -35,5 +35,5 @@ Explanation: 2 does not exist in nums so return -1
 
 查找索引位置，使用`list.index`
 
-**代码**：[solution.py][solution.py]
+**代码**：[solution.py](solution.py)
 
