@@ -48,6 +48,7 @@ LeetCode solutions in C++ 11 and python3.
 | 344  |          [Reverse String][344]           |   [C++][S344]   | 2018-5-28  |    Easy    |
 | 409  |        [Longest Palindrome][409]         | [python3][S409] | 2018-5-23  |    Easy    |
 | 412  |            [ Fizz Buzz ](412)            | [python3](S412) |  2017-6-3  |    Easy    |
+| 434  |  [ Number of Segments in a String][434]  | [python3][S434] |  2018-8-7  |    Easy    |
 | 461  |         [Hamming Distance][461]          |   [C++][S461]   | 2017-11-3  |    Easy    |
 | 476  |        [ Number Complement ][476]        | [python3](S476) | 2018-5-30  |    Easy    |
 | 556  |        [ Reshape the Matrix][556]        | [python3][S556] |  2018-7-4  |    Easy    |
@@ -112,6 +113,7 @@ LeetCode solutions in C++ 11 and python3.
 [S344]:344.%20Reverse%20String
 [S409]:409.%20Longest%20Palindrome
 [S412]:412.%20Fizz%20Buzz
+[S434]:434.%20Number%20of%20Segments%20in%20a%20String
 [S461]:461.%20Hamming%20Distance
 [S476]:476.%20Number%20Complement
 [S556]:556.%20Reshape%20the%20Matrix
@@ -173,6 +175,7 @@ LeetCode solutions in C++ 11 and python3.
 [344]:https://leetcode.com/problems/reverse-string/description/
 [409]:https://leetcode.com/problems/longest-palindrome/description/
 [412]:https://leetcode.com/problems/fizz-buzz/description/
+[434]:https://leetcode.com/problems/number-of-segments-in-a-string/description/
 [461]:https://leetcode.com/problems/hamming-distance/description/
 [476]:https://leetcode.com/problems/number-complement/description/
 [556]:https://leetcode.com/problems/reshape-the-matrix/description/
