@@ -52,6 +52,7 @@ LeetCode solutions in C++ 11 and python3.
 | 476  |        [ Number Complement ][476]        | [python3](S476) | 2018-5-30  |    Easy    |
 | 556  |        [ Reshape the Matrix][556]        | [python3][S556] |  2018-7-4  |    Easy    |
 | 557  |  [ Reverse Words in a String III ][557]  | [python3][S557] |  2018-6-5  |    Easy    |
+| 560  |      [ Subarray Sum Equals K][560]       | [python3][S560] |  2018-8-7  |   Medium   |
 | 561  |         [Array Partition I][561]         |   [C++][S561]   | 2017-11-6  |    Easy    |
 | 575  |        [ Distribute Candies][575]        | [python3][S575] | 2018-6-22  |    Easy    |
 | 617  |      [Merge Two Binary Trees][617]       |   [C++][S617]   | 2017-11-4  |    Easy    |
@@ -115,6 +116,7 @@ LeetCode solutions in C++ 11 and python3.
 [S476]:476.%20Number%20Complement
 [S556]:556.%20Reshape%20the%20Matrix
 [S557]:557.%20Reverse%20Words%20in%20a%20String%20III
+[S560]:560.%20Subarray%20Sum%20Equals%20K
 [S561]:561.%20Array%20Partition%20I
 [S575]:575.%20Distribute%20Candies
 [S617]:617.%20Merge%20Two%20Binary%20Trees
@@ -175,6 +177,7 @@ LeetCode solutions in C++ 11 and python3.
 [476]:https://leetcode.com/problems/number-complement/description/
 [556]:https://leetcode.com/problems/reshape-the-matrix/description/
 [557]:https://leetcode.com/problems/reverse-words-in-a-string-iii/description/
+[560]:https://leetcode.com/problems/subarray-sum-equals-k/description/
 [561]:https://leetcode.com/problems/array-partition-i/description/
 [575]:https://leetcode.com/problems/distribute-candies/description/
 [617]:https://leetcode.com/problems/merge-two-binary-trees/description/
