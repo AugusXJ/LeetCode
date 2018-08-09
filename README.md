@@ -51,6 +51,7 @@ LeetCode solutions in C++ 11 and python3.
 | 434  |  [ Number of Segments in a String][434]  | [python3][S434] |  2018-8-7  |    Easy    |
 | 461  |         [Hamming Distance][461]          |   [C++][S461]   | 2017-11-3  |    Easy    |
 | 476  |        [ Number Complement ][476]        | [python3](S476) | 2018-5-30  |    Easy    |
+| 516  | [ Longest Palindromic Subsequence][516]  | [python3][S516] |  2018-8-9  |   Medium   |
 | 556  |        [ Reshape the Matrix][556]        | [python3][S556] |  2018-7-4  |    Easy    |
 | 557  |  [ Reverse Words in a String III ][557]  | [python3][S557] |  2018-6-5  |    Easy    |
 | 560  |      [ Subarray Sum Equals K][560]       | [python3][S560] |  2018-8-7  |   Medium   |
@@ -116,6 +117,7 @@ LeetCode solutions in C++ 11 and python3.
 [S434]:434.%20Number%20of%20Segments%20in%20a%20String
 [S461]:461.%20Hamming%20Distance
 [S476]:476.%20Number%20Complement
+[S516]:216%20Longest%20Palindromic%20Subsequence
 [S556]:556.%20Reshape%20the%20Matrix
 [S557]:557.%20Reverse%20Words%20in%20a%20String%20III
 [S560]:560.%20Subarray%20Sum%20Equals%20K
@@ -178,6 +180,7 @@ LeetCode solutions in C++ 11 and python3.
 [434]:https://leetcode.com/problems/number-of-segments-in-a-string/description/
 [461]:https://leetcode.com/problems/hamming-distance/description/
 [476]:https://leetcode.com/problems/number-complement/description/
+[516]:https://leetcode.com/problems/longest-palindromic-subsequence/description/
 [556]:https://leetcode.com/problems/reshape-the-matrix/description/
 [557]:https://leetcode.com/problems/reverse-words-in-a-string-iii/description/
 [560]:https://leetcode.com/problems/subarray-sum-equals-k/description/
